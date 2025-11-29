@@ -1,4 +1,4 @@
----
+
 Question:
 
 To accommodate the backup agent tool's specifications, the system admin team at xFusionCorp Industries requires the creation of a user with a non-interactive shell. Here's your task:
@@ -7,7 +7,7 @@ Create a user named siva with a non-interactive shell on App Server 1.
 
 Note: You can find infrastructure details by clicking the " Details of all Users and Servers " button in the top-right section of the page.
 
----
+
 
 Answer:
 
