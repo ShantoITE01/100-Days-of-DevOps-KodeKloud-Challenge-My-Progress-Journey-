@@ -2,10 +2,12 @@ In a bid to automate backup processes, the xFusionCorp Industries sysadmin team 
 
 Your task is to grant executable permissions to the /tmp/xfusioncorp.sh script on App Server 2. Additionally, ensure that all users have the capability to execute it. 
 
+---
 Answer:
+
 To make the script executable by all users on App Server 2, you just need to update its permissions.
 
-Here’s exactly what to run on stapp01:
+Here’s exactly what to run on stapp02:
 
 ssh steve@stapp02
 
